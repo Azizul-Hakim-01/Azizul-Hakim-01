@@ -109,7 +109,7 @@ I am a Computer Science and Engineering student driven by curiosity and a passio
   </table>
 </div>
 
-*Note: Project source repositories are currently private.*
+
 
 ---
 
@@ -117,7 +117,7 @@ I am a Computer Science and Engineering student driven by curiosity and a passio
 
 I am particularly interested in exploring how modern machine learning architectures can address real-world challenges.
 
-**Current Research Direction**
+**Current Research Direction:**
 
 **An Imbalance-Aware Transformer-Based Approach for Network Intrusion Detection**
 
