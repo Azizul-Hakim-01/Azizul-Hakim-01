@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:302B63,100:6A3093&height=200&section=header&text=Azizul%20Hakim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:302B63,100:6A3093&height=200&section=header&text=Turning%20Coffee%20Into%20Code&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
   
   <h1>Hey! Azizul Hakim here 👋</h1>
 
