@@ -14,7 +14,7 @@
 
 I am a Computer Science and Engineering student driven by curiosity and a passion for building intelligent systems. My interests lie at the intersection of **Machine Learning, Deep Learning, Artificial Intelligence, Competitive Programming, Software Developing and Cybersecurity**. I enjoy exploring complex problems, experimenting with algorithms, and translating theoretical concepts into practical implementations. My GitHub serves as a portfolio of my technical journey, featuring projects ranging from algorithm-driven game development and intelligent decision-making systems to emerging machine learning research.
 
-- 🔭 **Currently focusing on:** Web Developing, Transformer architectures, machine learning research, class-imbalanced learning, and intelligent security systems.
+- 🔭 **Currently focusing on:** Web developing, transformer architectures, machine learning research, class-imbalanced learning, and intelligent security systems.
 - 💻 **Main toolkit:** Python, C++, C, Java, MySQL, and algorithm-driven development.
 - 🧠 **Research interests:** Artificial Intelligence, Deep Learning, Network Intrusion Detection, and Anomaly Detection.
 - ♟️ **Beyond the screen:** Fascinated by chess, strategic thinking, competitive programming, and the science behind intelligent decision-making.
@@ -62,6 +62,7 @@ I am a Computer Science and Engineering student driven by curiosity and a passio
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
@@ -137,6 +138,7 @@ Exploring transformer-based learning for network traffic classification, with pa
 
 - 🏅 **Dean's Award** — Winner of the award twice.
 - 🥇 **BIUPC** — Secured 5th and 9th positions.
+- 🏆 **Talent Pool Scholarship** Winner.
 - 🏆 **Bangladesh English Speaking Competition** — Winner.
 - 🎖️ **ICT Olympiad** — Semi-finalist.
 - 🧠 **AI, Physics, Mathematics, Chemistry, Biology, IQ Olympiad** — Participant.
